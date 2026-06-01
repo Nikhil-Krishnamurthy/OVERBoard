@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -126,7 +126,7 @@
         "max_error": 0.005,
         "min_clearance": 0.2,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.24,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -656,7 +656,7 @@
         "uuid": "c52ac696-9956-4053-b144-14dc67fb3912"
       }
     ],
-    "used_designators": "D157,D161",
+    "used_designators": "#PWR11-12,D157,D161-164,SW79-81,U1,C1-12",
     "variants": []
   },
   "sheets": [
