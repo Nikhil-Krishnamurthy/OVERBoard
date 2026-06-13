@@ -1,5 +1,5 @@
 # OVERBoard
-This is my attempt at creating a custom keyboard with several unique features, this has a layer system that I have modified to work with specific tasks on my pc, I also have a 2.8 in screen to display custom text, ui, and macros. There is a full 78 led matrix, dual pi pico system, and 3 rotary encoders that interface in this system.
+This is my attempt at creating a custom keyboard with several unique features, this has a layer system that I have modified to work with specific tasks on my pc, I also have a 2.8 in screen to display custom text, ui, and macros. There is a full 78 led matrix, dual pi pico system, and 3 rotary encoders that interface in this system.   
 Key Features   
 Full TKL Keyboard Matrix   
 4 Layer Keyboard System   
