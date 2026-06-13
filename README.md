@@ -25,7 +25,7 @@ PCB:
 CAD:
 <img width="1345" height="522" alt="image" src="https://github.com/user-attachments/assets/bea1ad18-e2e1-4c06-b54d-8852fae5b384" />
 
-BOM:
+BOM:   
 78 3 Pin Mechanical Keyboard Switches   
 78 SK6812 Mini-E LEDs   
 3 EC11 Rotary encoders   
