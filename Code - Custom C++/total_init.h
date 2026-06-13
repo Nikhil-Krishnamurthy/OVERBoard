@@ -34,6 +34,7 @@ public:
     static void increment_led_method(void);
     static void decrement_led_method(void);
     static uint8_t get_led_pattern(void);
+    static void set_pattern(uint8_t pattern);
 private:
     static uint32_t frame_count;
     static volatile uint8_t current_layer;
