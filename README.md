@@ -1,6 +1,6 @@
 # OVERBoard
 This is a keyboard that has a screen, 3 encoder knobs, and 2 pi picos. I aim to use a dual processor, with one use qmk to run, and the other running a custom c program that interfaces with both the pc and the other pi pico.
-The end goal for this project was to make a fully functional keyboard that has some extra features, mainly custom communication with the PC and extra features and macros.
+The end goal for this project was to make a fully functional keyboard that has some extra features, mainly custom communication with the PC and extra features and macros.   
 Key Features   
 Full TKL Keyboard Matrix   
 4 Layer Keyboard System   
