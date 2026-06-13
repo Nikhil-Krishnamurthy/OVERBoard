@@ -5,11 +5,11 @@ Key Features
 Full TKL Keyboard Matrix   
 4 Layer Keyboard System   
 3 Encoders Interfacing with the Layer System   
-78 Led Matrix system
-320 x 240 2.8 inch display
-Custom UI and layer switching menus
-Computer interface and data transmission
-Custom 5A power system
+78 Led Matrix system   
+320 x 240 2.8 inch display   
+Custom UI and layer switching menus   
+Computer interface and data transmission   
+Custom 5A power system   
 
 Schematic:   
 <img width="1460" height="486" alt="image" src="https://github.com/user-attachments/assets/248533e1-3a99-4dfb-975f-4928a19c0cac" />
