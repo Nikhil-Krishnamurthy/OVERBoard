@@ -210,6 +210,12 @@ void total_init::decrement_led_method(){
     }
 }
 
+void total_init::set_pattern(uint8_t pattern){
+    if(pattern < 3){
+        led_method = pattern;
+    }
+}
+
 uint8_t total_init::get_led_pattern(void){
     // Implementation for getting the current LED pattern
     return led_method;
