@@ -26,25 +26,25 @@ CAD:
 <img width="1345" height="522" alt="image" src="https://github.com/user-attachments/assets/bea1ad18-e2e1-4c06-b54d-8852fae5b384" />
 
 BOM:
-78 3 Pin Mechanical Keyboard Switches
-78 SK6812 Mini-E LEDs
-3 EC11 Rotary encoders
-1 Keycap Set
-1 Stabilizer Set
-10 0.1uF SMD 0805 Capacitors
-2 10uF SMD 1206 Capacitors
-83 Through Hole Diodes
-1 Raspberry Pi Pico
-1 Raspberry Pi Pico 2
-1 SN74HCT245PWR
-1 Mini 560 5A 5V
-1 Adafruit 5807 Power Evaluation Board
-1 2.8 in 320 x 240 SPI Serial TFT display
-2 PTS810_SJM_250
-2 4.7k SMD 0805 resistors
-10 10k SMD 0805 resistors
-9 M3 Heat set inserts
-9 M3 Screws
-2 M2.5 Heat Set Inserts
-2 M2.5 Screws
-1 1Kg Matte Black Filament
+78 3 Pin Mechanical Keyboard Switches   
+78 SK6812 Mini-E LEDs   
+3 EC11 Rotary encoders   
+1 Keycap Set   
+1 Stabilizer Set   
+10 0.1uF SMD 0805 Capacitors   
+2 10uF SMD 1206 Capacitors   
+83 Through Hole Diodes   
+1 Raspberry Pi Pico   
+1 Raspberry Pi Pico 2   
+1 SN74HCT245PWR   
+1 Mini 560 5A 5V   
+1 Adafruit 5807 Power Evaluation Board   
+1 2.8 in 320 x 240 SPI Serial TFT display   
+2 PTS810_SJM_250   
+2 4.7k SMD 0805 resistors   
+10 10k SMD 0805 resistors   
+9 M3 Heat set inserts   
+9 M3 Screws   
+2 M2.5 Heat Set Inserts   
+2 M2.5 Screws   
+1 1Kg Matte Black Filament   
