@@ -2,6 +2,7 @@
 #include "pico/stdlib.h"
 #include "encoder_actions.h"
 #include "hardware/uart.h"
+#include "total_init.h"
 #include "uart_control.h"
 
 #define UART_TX_PIN 0
@@ -47,6 +48,14 @@ void uart_control::uart_read_inputs(){
             case 0x7A:
                 // Handle release command
                 encoder_actions::enc3_physical_button_pressed = false;
+                break;
+            case 0x7B:
+                // Handle brightness default command
+                total_init::set_brightness_percent(50);
+                break;
+            case 0x7C:
+                // Handle pattern default command
+                total_init::set_pattern(0);
                 break;
             default:
                 // Handle unknown command
