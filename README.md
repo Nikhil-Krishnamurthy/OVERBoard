@@ -10,6 +10,10 @@ Custom UI and layer switching menus
 Computer interface and data transmission   
 Custom 5A power system   
 
+Full Render:    
+<img width="1461" height="663" alt="image" src="https://github.com/user-attachments/assets/057a3dc0-9586-4152-a7f4-11bf910e8b55" />
+
+
 Schematic:   
 <img width="1460" height="486" alt="image" src="https://github.com/user-attachments/assets/248533e1-3a99-4dfb-975f-4928a19c0cac" />
 <img width="993" height="638" alt="image" src="https://github.com/user-attachments/assets/fae9c9ba-902a-40fc-bbde-526d5c62177d" />
