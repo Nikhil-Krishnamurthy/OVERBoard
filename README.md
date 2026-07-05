@@ -10,6 +10,9 @@ Custom UI and layer switching menus
 Computer interface and data transmission   
 Custom 5A power system   
 
+Onshape link:
+https://cad.onshape.com/documents/a6bd6c4e9013194f1dc31777/w/de360b55982ee6c60ca7c4d4/e/a374dba059f4ceb7d8e6600d?renderMode=0&uiState=6a4a7855afac9a027952f82f 
+
 Full Render:    
 <img width="1461" height="663" alt="image" src="https://github.com/user-attachments/assets/057a3dc0-9586-4152-a7f4-11bf910e8b55" />
 
