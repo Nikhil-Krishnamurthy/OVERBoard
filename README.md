@@ -23,10 +23,10 @@ BOM:
 2 10uF SMD 1206 Capacitors   
 83 Through Hole Diodes   
 1 Raspberry Pi Pico   
-1 Raspberry Pi Pico 2   
+1 [Raspberry Pi Pico 2](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136)   
 1 SN74HCT245PWR   
-1 Mini 560 5A 5V   
-1 Adafruit 5807 Power Evaluation Board   
+1 [Mini 560 5A 5V](https://www.amazon.com/ACEIRMC-Efficiency-Converter-Regulator-Stabilized/dp/B0C98GN9R5/ref=mp_s_a_1_4?crid=2AVG7EVJEY2B9&dib=eyJ2IjoiMSJ9.YQJnYbrVm2KfCwo1WAsOv_9mCXY0p27qXY_bAWcHnAztXAalke-6x_LLhC_8PmYHInSFxohDrh9t3UeH3i8bvUFj-epQ0_xXJwlrhhlWOhZJfog3TIgcDjFTwO7dwkMsRUWsBu6tSt_Lye0NUieFGLgw9ekInTt2RbwoX9bJ0JOObYWOKjC2M1PCHkkIN_Ke.J03En0j60RIf0zi2gOz474K4xhu8YiPPLa1dOAJTqoU&dib_tag=se&keywords=mini+560+5v+5a&qid=1786103755&sprefix=mi%2Cpc%2C4329&sr=8-4)   
+1 [Adafruit 5807 Power Evaluation Board](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5807/21839778)   
 1 2.8 in 320 x 240 SPI Serial TFT display   
 2 PTS810_SJM_250   
 2 4.7k SMD 0805 resistors   
