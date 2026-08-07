@@ -27,10 +27,10 @@ BOM:
 1 [SN74HCT245PWR](https://www.digikey.com/en/products/detail/texas-instruments/SN74HCT245PWR/376998)   
 1 [Mini 560 5A 5V](https://www.amazon.com/ACEIRMC-Efficiency-Converter-Regulator-Stabilized/dp/B0C98GN9R5/ref=mp_s_a_1_4?crid=2AVG7EVJEY2B9&dib=eyJ2IjoiMSJ9.YQJnYbrVm2KfCwo1WAsOv_9mCXY0p27qXY_bAWcHnAztXAalke-6x_LLhC_8PmYHInSFxohDrh9t3UeH3i8bvUFj-epQ0_xXJwlrhhlWOhZJfog3TIgcDjFTwO7dwkMsRUWsBu6tSt_Lye0NUieFGLgw9ekInTt2RbwoX9bJ0JOObYWOKjC2M1PCHkkIN_Ke.J03En0j60RIf0zi2gOz474K4xhu8YiPPLa1dOAJTqoU&dib_tag=se&keywords=mini+560+5v+5a&qid=1786103755&sprefix=mi%2Cpc%2C4329&sr=8-4)   
 1 [Adafruit 5807 Power Evaluation Board](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5807/21839778)   
-1 2.8 in 320 x 240 SPI Serial TFT display   
-2 PTS810_SJM_250   
-2 4.7k SMD 0805 resistors   
-10 10k SMD 0805 resistors   
+1 [2.8 in 320 x 240 SPI Serial TFT display](https://www.amazon.com/DIANN-ILI9341-Display-320x240-Screen/dp/B0BNQBKFCT/ref=mp_s_a_1_4?crid=1IO0JMISFCIW5&dib=eyJ2IjoiMSJ9.QdQv9Z60xKItFJyKtGDGVEe0E5DZHOpvSyDlzSsJM0ahxq3n0oBPRCWegDN5Bh4kMcEsYOjRE9r_6PQ-nRDFi45yabmboblZpYIfpVL-1wZ9Gbc-wRBgY9Q3zt3W4nQNGskA3h3qFBMzfNfbmmOG4S9Yv8aLMXAZH_x-N28DwhMUSRzU2xY8tLeu3uxt2kHptwfZuykGqU6NKyFsdJm3gw.irWclV9rp7JxQy7JeD-LQJ3wXUPrGnMFIF87TexXEg0&dib_tag=se&keywords=2.8+in+spi+display+color&qid=1786105121&s=industrial&sprefix=2.8+in+spi+display+color%2Cindustrial%2C196&sr=1-4)   
+2 [PTS810_SJM_250](https://www.digikey.com/en/products/detail/c-k/PTS810SJK250SMTR-LFS/4176611)   
+2 [4.7k SMD 0805 resistors](https://www.digikey.com/en/products/detail/panasonic-industry/ERA-6AEB472V/1465765)    
+10 [10k SMD 0805 resistors](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676)   
 9 M3 Heat set inserts   
 9 M3 Screws   
 2 M2.5 Heat Set Inserts   
