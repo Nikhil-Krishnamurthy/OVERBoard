@@ -19,12 +19,12 @@ BOM:
 3 [EC11 Rotary encoders](https://www.amazon.com/CGNRONEAU-Potentiometer-Raspberry-Electronics-Projects/dp/B0G48Z8B9Q/ref=mp_s_a_1_5?crid=SJZ3ZTB60ZB5&dib=eyJ2IjoiMSJ9.DXj00Da7o69UiffMrM5wQRPYTBTu96F7xG_REVVFTXyDDE7Ct_VRsisag9rFMKgkTnHD1maKyGOHqHwwsa9QOm4nJbuxf-u1h8I8Xeu_QS-_GGyZhZ7IW7rUedH8wyPUQpJnUpBYRTrw7qkoa3L6uI7fxGQ1JdWoYiTZq1MJnh7YbKwp_SVgYWuv54q8JgQ_uJAa0EScvo-vtg_HxxVShA.oFRLtfeS884kGRJ9817n1MkEJusgqgWJDlI8D6AScFo&dib_tag=se&keywords=ec11+rotary+encoder&qid=1786102850&s=industrial&sprefix=ec11+rotary+encoder%2Cindustrial%2C296&sr=1-5)    
 1 [Keycap Set](https://www.amazon.com/Womier-Doubleshot-Universal-Compatiability-Switches/dp/B0DD3MFZJH/ref=mp_s_a_1_4?dib=eyJ2IjoiMSJ9.NYb-M_oBXZ4sYXBFeumxLCGVNsY9r-6v4MP0X_NiII59u2l-eoBS-fSIwKjgQw8UQnKp5aItpglhW1_vmJ5Zi3Ai9TdxAWYqoLRUdImCShzhl38JPSy1eJCwtC9gqwE5WcnlIVPYZwyoVEbIaEuOxTBP47_ipk5BJsu7sIIcEQwtiRsUoIT2AKQ4hwcLJanAgVfd3swCPsz1cHzkkB3fEA.LHY6OJX_2Vt0jXq0Am2Od0HAyrY-O1Iw68TDGDFU8LQ&dib_tag=se&keywords=keycap+set&qid=1786102952&sr=8-4)   
 1 [Stabilizer Set](https://www.amazon.com/DUROCK-Stabilizers-Translucent-Keyboard-Mechanical/dp/B0B2RVN19F/ref=mp_s_a_1_1?crid=RUCGVW5PCSL7&dib=eyJ2IjoiMSJ9.FUE_jABwKLA1OASEMhZRJdxEw5T6Pmde5A4peNgmaHbFq5e1Nyw0ducx_W87F-YdPvY6Z0F0Ws9Z5KWRT10otnbc7i3mqQ-KSsT8q0_UoKFDrMQOU2Zr7UFsQVD8SH_3jzvns1ANBC4ikHp7kZKjsS9mrpaVKSuOX6QgBT75oK6L6rT38cDrAPZf1bMy2eiDNbRMvr3UK6Jnu7D304s7ww.Ds4MVNaTUXEreelnZ5y9dkQEI_1UVwucidZDuxVlDSo&dib_tag=se&keywords=keyboard+stabilizer+pcb+mount&qid=1786103068&sprefix=keyboard+stabilizer+pcb+moun%2Cpc%2C281&sr=8-1)   
-10 0.1uF SMD 0805 Capacitors   
-2 10uF SMD 1206 Capacitors   
-83 Through Hole Diodes   
-1 Raspberry Pi Pico   
+10 [0.1uF SMD 0805 Capacitors](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661)   
+2 [10uF SMD 1206 Capacitors](https://www.digikey.com/en/products/detail/taiyo-yuden/TMK316BJ106ML-T/1172143)   
+83 [Through Hole Diodes](https://www.digikey.com/en/products/detail/onsemi/1N4148TR/458811)   
+1 [Raspberry Pi Pico](https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793)   
 1 [Raspberry Pi Pico 2](https://www.digikey.com/en/products/detail/raspberry-pi/SC1631/24627136)   
-1 SN74HCT245PWR   
+1 [SN74HCT245PWR](https://www.digikey.com/en/products/detail/texas-instruments/SN74HCT245PWR/376998)   
 1 [Mini 560 5A 5V](https://www.amazon.com/ACEIRMC-Efficiency-Converter-Regulator-Stabilized/dp/B0C98GN9R5/ref=mp_s_a_1_4?crid=2AVG7EVJEY2B9&dib=eyJ2IjoiMSJ9.YQJnYbrVm2KfCwo1WAsOv_9mCXY0p27qXY_bAWcHnAztXAalke-6x_LLhC_8PmYHInSFxohDrh9t3UeH3i8bvUFj-epQ0_xXJwlrhhlWOhZJfog3TIgcDjFTwO7dwkMsRUWsBu6tSt_Lye0NUieFGLgw9ekInTt2RbwoX9bJ0JOObYWOKjC2M1PCHkkIN_Ke.J03En0j60RIf0zi2gOz474K4xhu8YiPPLa1dOAJTqoU&dib_tag=se&keywords=mini+560+5v+5a&qid=1786103755&sprefix=mi%2Cpc%2C4329&sr=8-4)   
 1 [Adafruit 5807 Power Evaluation Board](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5807/21839778)   
 1 2.8 in 320 x 240 SPI Serial TFT display   
