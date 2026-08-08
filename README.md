@@ -13,7 +13,7 @@ Custom 5A power system
 ## Onshape-link:
 https://cad.onshape.com/documents/a6bd6c4e9013194f1dc31777/w/de360b55982ee6c60ca7c4d4/e/a374dba059f4ceb7d8e6600d?renderMode=0&uiState=6a4a7855afac9a027952f82f 
 
-#Flashing
+#Flashing      
 Flashing is done through two steps, compiling the C qmk file through QMK MSYS to compile to a uf2 file, which then can be flashed to the pi pico through holding the bootsel button and plugging it in to the usb power. Then just upload the new uf2 file to the pi pico. To flash the pi pico 2 for the display, you have to download the entire folder of the custom c++, and then through a terminal of your choice compile it. (I use vs code and i got it to work through there, idk about others). Then upload the second uf2 file to the pi pico 2 by holding the bootsel button and uploading it there.
 
 # BOM   
