@@ -1,6 +1,6 @@
 # OVERBoard
 This is my attempt at creating a custom keyboard with several unique features, this has a layer system that I have modified to work with specific tasks on my pc, I also have a 2.8 in screen to display custom text, ui, and macros. There is a full 78 led matrix, dual pi pico system, and 3 rotary encoders that interface in this system.   
-Key Features   
+# Key Features   
 Full TKL Keyboard Matrix   
 4 Layer Keyboard System   
 3 Encoders Interfacing with the Layer System   
@@ -10,10 +10,10 @@ Custom UI and layer switching menus
 Computer interface and data transmission   
 Custom 5A power system   
 
-Onshape link:
+## Onshape-link:
 https://cad.onshape.com/documents/a6bd6c4e9013194f1dc31777/w/de360b55982ee6c60ca7c4d4/e/a374dba059f4ceb7d8e6600d?renderMode=0&uiState=6a4a7855afac9a027952f82f 
 
-BOM:   
+# BOM   
 78 [3 Pin Mechanical Keyboard Switches   ](https://www.amazon.com/Leezmark-Mechanical-Dustproof-Replacement-Keyboards/dp/B0GV78B48N/ref=mp_s_a_1_20_sspa?crid=2GGAVKPX5GKH&dib=eyJ2IjoiMSJ9.BS9ZW8A40QZK6iI4UmdZkYcVp812RDtM8dzqQtxJq5kz5jddC0aGCLYpUDj6oWZM4geYAz7LL5dJKQJ_sMRCqYbuT9Zwzy20VnrTvVNVI-2PMGM8y_OT_gXPSKltVj0ZCmtBrzLAvtF8hVyPpS-bcG8HSGX4meJ7BWVw4GwyFBtzq-VV4k_-OB3_U29mYmabBNX5P_2u1xLUz0WsYM_SZg.sOaHXiIPD6Bd4c6RHFdcsiI9AAYZXd1oFGZit3XfvzE&dib_tag=se&keywords=mechanical+keyboard+switches&qid=1786102391&sprefix=mecha%2Caps%2C1667&sr=8-20-spons&xpid=P4xuzyhmO1Kis&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfbXRm&psc=1)   
 78 [SK6812 Mini-E LEDs](https://www.amazon.com/Lizusidtsy-Similar-Individually-Addressable-500076361/dp/B0D62PYX62/ref=mp_s_a_1_10?crid=1HXPOB1FA28BI&dib=eyJ2IjoiMSJ9.9VtPip6eaOO1-XFGgh2XxRcv7goQ3zQpYu2U5s9L9nSHVgE9buEYKNyEW3iah_ciC9jxtcFWsezkLg6mPwawYLvC0YwcBautoxVQw8uHIajIIKaw2BAEOz0msTKg2i1JiFDcOfpwOktIFD5m-rM-sLH5aurg7jONQpTc9ztb7qjGY4VW4UKlHhBSvXDKLMnpFN1p0uSk9QlHmR1fMhQoKQ.cp7zFL1gJURH3RVmt4PrTOWDThkTRaVYkx8k7CsSdDU&dib_tag=se&keywords=sk6812+mini+e&qid=1786102738&s=industrial&sprefix=sk6812+mini+e%2Cindustrial%2C227&sr=1-10-catcorr)   
 3 [EC11 Rotary encoders](https://www.amazon.com/CGNRONEAU-Potentiometer-Raspberry-Electronics-Projects/dp/B0G48Z8B9Q/ref=mp_s_a_1_5?crid=SJZ3ZTB60ZB5&dib=eyJ2IjoiMSJ9.DXj00Da7o69UiffMrM5wQRPYTBTu96F7xG_REVVFTXyDDE7Ct_VRsisag9rFMKgkTnHD1maKyGOHqHwwsa9QOm4nJbuxf-u1h8I8Xeu_QS-_GGyZhZ7IW7rUedH8wyPUQpJnUpBYRTrw7qkoa3L6uI7fxGQ1JdWoYiTZq1MJnh7YbKwp_SVgYWuv54q8JgQ_uJAa0EScvo-vtg_HxxVShA.oFRLtfeS884kGRJ9817n1MkEJusgqgWJDlI8D6AScFo&dib_tag=se&keywords=ec11+rotary+encoder&qid=1786102850&s=industrial&sprefix=ec11+rotary+encoder%2Cindustrial%2C296&sr=1-5)    
@@ -36,24 +36,26 @@ BOM:
 2 [M2.5 Heat Set Inserts](https://www.amazon.com/HANGLIFE-Heat-Set-Threaded-Printing-Components/dp/B0CS6YVJYD/ref=mp_s_a_1_2_sspa?crid=2B6EZ44CM5F8W&dib=eyJ2IjoiMSJ9.64CwhAq2F4wt2J7X2RWpxsbGQNoHV8siDt0bl6JQWF52xU_4RhH0jdpfO7SRVfnWZU2jv3CI10a2JeWKff2m2wFIr10td08-ZNDs7jlZM_gW5mSgs-W56Qb0sIpuTAgPvamIXJbOre0ZmTZ6kXSKiIbGKsS7vC-VFf2Imqp2yVl_mDHaTy5djVOZQ_dIL6f3OuER50SkQsIQripMtAXk4A.KM8dXGX0d71WWG7ur53YMH8J9nQ2REom7eKTVHaXpUI&dib_tag=se&keywords=m3%2Bheat%2Bset%2Binserts&qid=1786105506&s=industrial&sprefix=m3%2Bheat%2Bs%2Cindustrial%2C246&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1&th=1)   
 2 [M2.5 Screws](https://www.amazon.com/Fgruh-750PCS-Assortment-Washers-Assorted/dp/B0FG2BYJSR/ref=mp_s_a_1_1_sspa?crid=1ZGG85P77CJCY&dib=eyJ2IjoiMSJ9.cPekTjkEYdRojQiPp36UK-D0OriKRZ1Tcz-iYae4l8YfNDd_5vroqMqjPyDoD8r98dxg69F8Q4x7A4Qg04ZpZkq3-5Vz_8pzyy0ST4oyfjEEufYmdOm-INr8fJD5TDph9qhOa-j-fmcB0ADX9T1tIyiP6yaLBkyUwThoKVBjPId_kiXSb0qIrofmAIKtf7pJRZK1cPMjvmaWqAiZ1AKcZg.GNyAzvliKQY6RL9mJRsNCAE3UinRfEleG_EmtBRQXtc&dib_tag=se&keywords=m3%2Bscrews&qid=1786105661&s=industrial&sprefix=m3%2Bscrews%2Cindustrial%2C256&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1&th=1)   
 1 [1Kg Matte Black Filament](https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Carboard/dp/B0CFV3WF7P/ref=mp_s_a_1_1_sspa?crid=2WGHGADYDSPZ3&dib=eyJ2IjoiMSJ9.jj4FdZs0k5Gj9BMVFw2sIqMRLoQnKg6Dh9C_efasYCNLHC9B4MPcdiQZZ9ZXBsrlR_gga4llJi5TY_AL7se-jTgKuxSOclNDDB5CvK38oBG-ydVc6MiEftwGY9kheukIrHDEPPKRb3bsytmUJS91ZC5HKMM_KCdLlz8CiN8cHiQ8tEZizCX_oA0306VRSqZExDdBiODIV9xqZQAQjvHG-Q.TCRhgAn-7mqXjFZFVEeZ7ere4YNhtVbXsh61Izosbp4&dib_tag=se&keywords=matte+black+pla&qid=1786105829&s=industrial&sprefix=matte+black+pla%2Cindustrial%2C248&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1)   
-1 Custom Pcb   
+1 Custom Pcb    
+## BOM as CSV Format    
+[BOM.csv](https://github.com/Nikhil-Krishnamurthy/OVERBoard/blob/main/BOM.csv)     
 
-Full Render:    
+# Full Render:    
 <img width="1461" height="663" alt="image" src="https://github.com/user-attachments/assets/057a3dc0-9586-4152-a7f4-11bf910e8b55" />
 
 
-Schematic:   
+# Schematic:   
 <img width="1460" height="486" alt="image" src="https://github.com/user-attachments/assets/248533e1-3a99-4dfb-975f-4928a19c0cac" />
 <img width="993" height="638" alt="image" src="https://github.com/user-attachments/assets/fae9c9ba-902a-40fc-bbde-526d5c62177d" />
 <img width="1808" height="707" alt="image" src="https://github.com/user-attachments/assets/6381c7dc-2fac-4012-b84f-b1e7646ad149" />
 <img width="1495" height="557" alt="image" src="https://github.com/user-attachments/assets/752ad3e1-cdba-420e-9648-0243d6767b6b" />
 <img width="1895" height="1347" alt="image" src="https://github.com/user-attachments/assets/b87516bf-3a16-4fd3-814b-ae81b4431bc1" />
 
-PCB:
+# PCB:
 <img width="2085" height="777" alt="image" src="https://github.com/user-attachments/assets/22abf3f7-aad8-46b6-84cc-de4dc688b701" />
 <img width="2084" height="760" alt="image" src="https://github.com/user-attachments/assets/0b2ae1bd-d65d-444e-a3b4-1056811a891a" />
 
-CAD:
+# CAD:
 <img width="1345" height="522" alt="image" src="https://github.com/user-attachments/assets/bea1ad18-e2e1-4c06-b54d-8852fae5b384" />
 
    
